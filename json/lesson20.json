@@ -1,0 +1,244 @@
+{
+  "status": 0,
+  "data": {
+    "name": "主谓一致",
+    "paging_toast": "需要学习5分钟以上才能点击下一页哦～",
+    "_id": "5b75411a46e0fb00010721cf",
+    "teachers": [
+      {
+        "id": "1",
+        "name": "侃侃老师",
+        "url": "https://oss.qingclass.com/course/2017/03/22/b1cb974eec94df143633a63a18.jpg"
+      }
+    ],
+    "content": [
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/03/27/b113c1430896ee3d258d96a323.gif",
+        "preview": false,
+        "text": "4 part1.gif",
+        "id": "4",
+        "order": 0,
+        "kind": 1
+      },
+      {
+        "duration": 29100,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/03/27/ca1b91470bbcec04b9185fb026.mp3",
+        "text": "初级语法导语.mp3",
+        "id": "5",
+        "order": 1,
+        "kind": 0
+      },
+      {
+        "duration": 84000,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/03/27/fa12434fcb80660e9272b921d4.mp3",
+        "text": "2.mp3",
+        "id": "6",
+        "order": 2,
+        "kind": 0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/03/27/31d8884fc49133fb91ee42aee2.png",
+        "preview": true,
+        "text": "作业讲解.png",
+        "id": "7",
+        "order": 3,
+        "kind": 1
+      },
+      {
+        "duration": 102870,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/03/27/87171f477bb1a4c4b670ba9d2d.mp3",
+        "text": "3.mp3",
+        "id": "8",
+        "order": 4,
+        "kind": 0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/03/27/084369497080e04a1a35e40e14.png",
+        "preview": true,
+        "text": "课前练习.png",
+        "id": "9",
+        "order": 5,
+        "kind": 1
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/03/27/66107246a99a675f3916a15e2d.gif",
+        "preview": false,
+        "text": "5 part2.gif",
+        "id": "10",
+        "order": 6,
+        "kind": 1
+      },
+      {
+        "duration": 35730,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/03/27/e402634f0fa879e124db6789b2.mp3",
+        "text": "5.mp3",
+        "id": "11",
+        "order": 7,
+        "kind": 0
+      },
+      {
+        "duration": 197170,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/03/27/0130bc480a95a4d61825f260eb.mp3",
+        "text": "6.mp3",
+        "id": "12",
+        "order": 8,
+        "kind": 0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/03/27/ba34fb4844b072625a13e6fb2e.png",
+        "preview": true,
+        "text": "解读1.png",
+        "id": "13",
+        "order": 9,
+        "kind": 1
+      },
+      {
+        "duration": 78810,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/03/27/368cc444c7a1efa707109234e1.mp3",
+        "text": "7.mp3",
+        "id": "14",
+        "order": 10,
+        "kind": 0
+      },
+      {
+        "duration": 157640,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/03/27/761e204d00a64166805dec5d23.mp3",
+        "text": "8.mp3",
+        "id": "15",
+        "order": 11,
+        "kind": 0
+      },
+      {
+        "duration": 63340,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/03/27/c93bb44b82803c281be11f8e7a.mp3",
+        "text": "9.mp3",
+        "id": "16",
+        "order": 12,
+        "kind": 0
+      },
+      {
+        "duration": 20530,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/03/27/e821b94045bff833f5d6d960fb.mp3",
+        "text": "10.mp3",
+        "id": "17",
+        "order": 13,
+        "kind": 0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/03/27/0259dd4c5e807cfec9f8796d21.png",
+        "preview": true,
+        "text": "解读2.png",
+        "id": "18",
+        "order": 14,
+        "kind": 1
+      },
+      {
+        "duration": 61620,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/03/27/0b809e45f7a0309150457d1882.mp3",
+        "text": "11.mp3",
+        "id": "19",
+        "order": 15,
+        "kind": 0
+      },
+      {
+        "duration": 51040,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/03/27/b7aa5a45779bd64b721d227150.mp3",
+        "text": "12.mp3",
+        "id": "20",
+        "order": 16,
+        "kind": 0
+      },
+      {
+        "duration": 125960,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/03/27/effadd44f2b7142cea94733030.mp3",
+        "text": "13.mp3",
+        "id": "21",
+        "order": 17,
+        "kind": 0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/03/27/8f9a8f47248bf09854fc3be53a.png",
+        "preview": true,
+        "text": "难点1.png",
+        "id": "22",
+        "order": 18,
+        "kind": 1
+      },
+      {
+        "duration": 70190,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/03/27/c191c24b579f9946f56f751d85.mp3",
+        "text": "14.mp3",
+        "id": "23",
+        "order": 19,
+        "kind": 0
+      },
+      {
+        "duration": 64260,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/03/27/bf21a1478c86d13f2b82401032.mp3",
+        "text": "15.mp3",
+        "id": "24",
+        "order": 20,
+        "kind": 0
+      },
+      {
+        "duration": 77320,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/03/27/726eb0412a957fd1283e35890c.mp3",
+        "text": "16.mp3",
+        "id": "25",
+        "order": 21,
+        "kind": 0
+      },
+      {
+        "duration": 11540,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/03/27/3dec894a16ac1330107fedd611.mp3",
+        "text": "17.mp3",
+        "id": "26",
+        "order": 22,
+        "kind": 0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/03/27/68e2bf4101b7aa9ba9793698b9.png",
+        "preview": true,
+        "text": "难点2.png",
+        "id": "27",
+        "order": 23,
+        "kind": 1
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/03/27/37d12f4d988d6829e8d83d1595.png",
+        "preview": true,
+        "text": "课后作业.png",
+        "id": "31",
+        "order": 24,
+        "kind": 1
+      }
+    ],
+    "course_id": "5b75411a46e0fb00010721ce",
+    "paging_time": 300000
+  }
+}

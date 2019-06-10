@@ -1,0 +1,314 @@
+{
+  "status": 0,
+  "data": {
+    "name": "从句引导词的区别（从属连词、关系代词/关系副词）",
+    "paging_toast": "需要学习5分钟以上才能点击下一页哦～",
+    "_id": "5b754140cff47e0001ca4573",
+    "teachers": [
+      {
+        "id": "1",
+        "name": "侃侃老师",
+        "url": "https://oss.qingclass.com/course/2017/05/17/1e20d24802ad2b210960a77fa4.jpg"
+      }
+    ],
+    "content": [
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/05/17/93e7bc48afb20cd307d8dade30.gif",
+        "preview": false,
+        "text": "part1.gif",
+        "id": "4",
+        "order": 0,
+        "kind": 1
+      },
+      {
+        "duration": 40545,
+        "teacher": "1",
+        "url": "//saasoss.qingclass.cc/temp/jwh73ija/%E8%80%81%E4%BA%BA.mp3",
+        "text": "老人.mp3",
+        "id": "jwh73iiz",
+        "order": 1,
+        "kind": 0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/05/17/8f18f749b5bfd33bd72e07996b.png",
+        "preview": true,
+        "text": "0.5.png",
+        "id": "6",
+        "order": 2,
+        "kind": 1
+      },
+      {
+        "duration": 15120,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/05/17/680cda4eff885dc0e02fefd09c.mp3",
+        "text": "0519_1.mp3",
+        "id": "7",
+        "order": 3,
+        "kind": 0
+      },
+      {
+        "duration": 17130,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/05/17/ffd25347adb1d0072a0b850f94.mp3",
+        "text": "0519_2.mp3",
+        "id": "8",
+        "order": 4,
+        "kind": 0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/05/17/81209c4c998a99d8216add32f2.png",
+        "preview": true,
+        "text": "1.png",
+        "id": "9",
+        "order": 5,
+        "kind": 1
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/05/17/8150594315a66dc9503060e3d5.gif",
+        "preview": false,
+        "text": "part2.gif",
+        "id": "10",
+        "order": 6,
+        "kind": 1
+      },
+      {
+        "duration": 32830,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/05/17/95f9b04f80bd41b4817f200649.mp3",
+        "text": "0519_3.mp3",
+        "id": "11",
+        "order": 7,
+        "kind": 0
+      },
+      {
+        "duration": 142130,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/05/17/2b4e874060a030d544765ac172.mp3",
+        "text": "0519_4.mp3",
+        "id": "12",
+        "order": 8,
+        "kind": 0
+      },
+      {
+        "duration": 46130,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/05/17/cae5da467b9a0c70f48bc1fa40.mp3",
+        "text": "0519_6.mp3",
+        "id": "13",
+        "order": 9,
+        "kind": 0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/05/17/736de84170aa9056113c992f7a.png",
+        "preview": true,
+        "text": "2.png",
+        "id": "14",
+        "order": 10,
+        "kind": 1
+      },
+      {
+        "duration": 34030,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/05/17/73dab54199a6dab1eb15526c12.mp3",
+        "text": "0519_7.mp3",
+        "id": "15",
+        "order": 11,
+        "kind": 0
+      },
+      {
+        "duration": 71650,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/05/17/6bfaab41d9a1b02454e25e94fe.mp3",
+        "text": "0519_8.mp3",
+        "id": "16",
+        "order": 12,
+        "kind": 0
+      },
+      {
+        "duration": 89750,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/05/17/0ef0ce4113aa393b2bdca14411.mp3",
+        "text": "0519_9.mp3",
+        "id": "17",
+        "order": 13,
+        "kind": 0
+      },
+      {
+        "duration": 109080,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/05/17/2360a5401b96f8c72f8ec8b245.mp3",
+        "text": "0519_10.mp3",
+        "id": "18",
+        "order": 14,
+        "kind": 0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/05/17/61ed9f474e8065937eaf003fcb.png",
+        "preview": true,
+        "text": "3.png",
+        "id": "19",
+        "order": 15,
+        "kind": 1
+      },
+      {
+        "duration": 144900,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/05/17/61953f4781b0cfa8080878c6a0.mp3",
+        "text": "0519_12.mp3",
+        "id": "20",
+        "order": 16,
+        "kind": 0
+      },
+      {
+        "duration": 89150,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/05/19/fbfd3d455b95f953bd8bed4a79.mp3",
+        "text": "0519_14.mp3",
+        "id": "21",
+        "order": 17,
+        "kind": 0
+      },
+      {
+        "duration": 39890,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/05/17/6a8b2540debdce43f5db3c15e9.mp3",
+        "text": "0519_16.mp3",
+        "id": "22",
+        "order": 18,
+        "kind": 0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/05/18/08790f41d78e71146a44ccd280.png",
+        "preview": true,
+        "text": "gai1.png",
+        "id": "23",
+        "order": 19,
+        "kind": 1
+      },
+      {
+        "duration": 47250,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/05/17/8fcda243f9809d36ea9b3956a2.mp3",
+        "text": "0519_17.mp3",
+        "id": "24",
+        "order": 20,
+        "kind": 0
+      },
+      {
+        "duration": 118410,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/05/17/49a00645248ed29f8a11793838.mp3",
+        "text": "0519_18.mp3",
+        "id": "25",
+        "order": 21,
+        "kind": 0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/05/17/6f098b43db92f25c30822873a1.png",
+        "preview": true,
+        "text": "5.png",
+        "id": "26",
+        "order": 22,
+        "kind": 1
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/05/17/a3e190496ba857195689a6bf2c.gif",
+        "preview": false,
+        "text": "part3.gif",
+        "id": "27",
+        "order": 23,
+        "kind": 1
+      },
+      {
+        "duration": 49130,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/05/17/72e53046c7ad4bfd6f6dff6cb6.mp3",
+        "text": "0519_20.mp3",
+        "id": "28",
+        "order": 24,
+        "kind": 0
+      },
+      {
+        "duration": 100830,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/05/17/0222614a7ea67565f2db1f1162.mp3",
+        "text": "0519_21.mp3",
+        "id": "29",
+        "order": 25,
+        "kind": 0
+      },
+      {
+        "duration": 49260,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/05/17/9c4ce348ba8dbc86ccdf003f8c.mp3",
+        "text": "0519_23.mp3",
+        "id": "30",
+        "order": 26,
+        "kind": 0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/05/17/148654491d9033f1095ba531dc.png",
+        "preview": true,
+        "text": "6.png",
+        "id": "31",
+        "order": 27,
+        "kind": 1
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/05/17/caa4964e40a4f62a012a4d1034.gif",
+        "preview": false,
+        "text": "part4.gif",
+        "id": "32",
+        "order": 28,
+        "kind": 1
+      },
+      {
+        "duration": 47360,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/05/17/63fd164e60b5db4783a5e410aa.mp3",
+        "text": "0519_25.mp3",
+        "id": "33",
+        "order": 29,
+        "kind": 0
+      },
+      {
+        "duration": 46050,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/05/17/7fab1147088a8ea69262d79ad7.mp3",
+        "text": "0519_26.mp3",
+        "id": "34",
+        "order": 30,
+        "kind": 0
+      },
+      {
+        "teacher": "",
+        "text": "<p>恭喜你学完今天的课程，下面是今天的作业，请先思考，侃侃老师将在明天的课程中详细解答今天的作业，记得收听哦~</p>",
+        "id": "36",
+        "order": 31,
+        "kind": 3
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/05/17/dfeaa0461cb03b6f4a3f7a7e8c.png",
+        "preview": true,
+        "text": "7.png",
+        "id": "37",
+        "order": 32,
+        "kind": 1
+      }
+    ],
+    "course_id": "5b754140cff47e0001ca4572",
+    "paging_time": 300000
+  }
+}

@@ -1,270 +1,274 @@
 {
-  "name": "定冠词&不定冠词&零冠词",
-  "content": [{
-    "teacher": "",
-    "url": "https://oss.qingclass.com/course/2017/02/27/3b3b06431785bdac872c65474f.gif",
-    "preview": false,
-    "text": "part1.gif",
-    "id": "1",
-    "order": 0.0,
-    "kind": 1.0
-  },
-    {
-      "duration": 57390.0,
-      "teacher": "1",
-      "url": "//oss.qingclass.com/course/trans2cbr/2017/02/27/89f70c4158b235fc33333d11ec.mp3",
-      "text": "2017年2月27日 下午5_15_04(1).mp3",
-      "id": "2",
-      "order": 1.0,
-      "kind": 0.0
-    },
-    {
-      "duration": 77580.0,
-      "teacher": "1",
-      "url": "//oss.qingclass.com/course/trans2cbr/2017/02/27/7e814f4f9c9a8b849ef37aebd8.mp3",
-      "text": "2.课前练习.mp3",
-      "id": "3",
-      "order": 2.0,
-      "kind": 0.0
-    },
-    {
-      "teacher": "",
-      "url": "https://oss.qingclass.com/course/2017/02/27/fbe7e54f639054d95cc1f8cd66.png",
-      "preview": true,
-      "text": "1.png",
-      "id": "4",
-      "order": 3.0,
-      "kind": 1.0
-    },
-    {
-      "teacher": "",
-      "url": "https://oss.qingclass.com/course/2017/02/27/4b934d46e5a1750d067700016e.gif",
-      "preview": false,
-      "text": "part2.gif",
-      "id": "5",
-      "order": 4.0,
-      "kind": 1.0
-    },
-    {
-      "duration": 102940.0,
-      "teacher": "1",
-      "url": "//oss.qingclass.com/course/trans2cbr/2017/02/27/e34b86429f8b5dcb08a1d46a1b.mp3",
-      "text": "3.语法解读1.mp3",
-      "id": "6",
-      "order": 5.0,
-      "kind": 0.0
-    },
-    {
-      "teacher": "",
-      "url": "https://oss.qingclass.com/course/2017/02/27/70348d466ba2c87025c223fc51.png",
-      "preview": true,
-      "text": "2.png",
-      "id": "7",
-      "order": 6.0,
-      "kind": 1.0
-    },
-    {
-      "duration": 153670.0,
-      "teacher": "1",
-      "url": "//oss.qingclass.com/course/trans2cbr/2017/02/27/a54249495b88cf5d11a694e74d.mp3",
-      "text": "3.语法解读2.mp3",
-      "id": "8",
-      "order": 7.0,
-      "kind": 0.0
-    },
-    {
-      "teacher": "",
-      "url": "https://oss.qingclass.com/course/2017/02/27/bd5d304e66a81ebaa785cb6de2.png",
-      "preview": true,
-      "text": "3.png",
-      "id": "9",
-      "order": 8.0,
-      "kind": 1.0
-    },
-    {
-      "duration": 141270.0,
-      "teacher": "1",
-      "url": "//oss.qingclass.com/course/trans2cbr/2017/02/27/2086c94a04ad05ec642f504324.mp3",
-      "text": "3.语法解读3.mp3",
-      "id": "10",
-      "order": 9.0,
-      "kind": 0.0
-    },
-    {
-      "teacher": "",
-      "url": "https://oss.qingclass.com/course/2017/02/27/a49beb48cc836421835f540497.png",
-      "preview": true,
-      "text": "4.png",
-      "id": "11",
-      "order": 10.0,
-      "kind": 1.0
-    },
-    {
-      "teacher": "",
-      "url": "https://oss.qingclass.com/course/2017/02/27/ff3dc24b28a3878e6e0cfb1ef3.gif",
-      "preview": false,
-      "text": "part3.gif",
-      "id": "12",
-      "order": 11.0,
-      "kind": 1.0
-    },
-    {
-      "duration": 119060.0,
-      "teacher": "1",
-      "url": "//oss.qingclass.com/course/trans2cbr/2017/02/27/b3dd3a4f2badbf72609a8f108d.mp3",
-      "text": "4.用法精析1.mp3",
-      "id": "13",
-      "order": 12.0,
-      "kind": 0.0
-    },
-    {
-      "duration": 66030.0,
-      "teacher": "1",
-      "url": "//oss.qingclass.com/course/trans2cbr/2017/02/27/a924b34b2886ba0534db86a647.mp3",
-      "text": "4.用法精析2.mp3",
-      "id": "14",
-      "order": 13.0,
-      "kind": 0.0
-    },
-    {
-      "teacher": "",
-      "url": "https://oss.qingclass.com/course/2017/02/27/5a23ac4167b78ae34cbde45a77.png",
-      "preview": true,
-      "text": "5.png",
-      "id": "15",
-      "order": 14.0,
-      "kind": 1.0
-    },
-    {
-      "duration": 73400.0,
-      "teacher": "1",
-      "url": "//oss.qingclass.com/course/trans2cbr/2017/02/27/23d75542c5bea8d02fd78f3f76.mp3",
-      "text": "4.用法精析3.mp3",
-      "id": "16",
-      "order": 15.0,
-      "kind": 0.0
-    },
-    {
-      "duration": 79120.0,
-      "teacher": "1",
-      "url": "//oss.qingclass.com/course/trans2cbr/2017/02/27/b522d34493ad390268648538b3.mp3",
-      "text": "4.用法精析4.mp3",
-      "id": "17",
-      "order": 16.0,
-      "kind": 0.0
-    },
-    {
-      "teacher": "",
-      "url": "https://oss.qingclass.com/course/2017/02/27/8352c948c4a89f24a3ed6f03c0.png",
-      "preview": true,
-      "text": "6.png",
-      "id": "18",
-      "order": 17.0,
-      "kind": 1.0
-    },
-    {
-      "duration": 126530.0,
-      "teacher": "1",
-      "url": "//oss.qingclass.com/course/trans2cbr/2017/02/27/b40ee54c378b12dac713b8761a.mp3",
-      "text": "2017年2月27日 下午11_05_48.mp3",
-      "id": "19",
-      "order": 18.0,
-      "kind": 0.0
-    },
-    {
-      "duration": 69320.0,
-      "teacher": "1",
-      "url": "//oss.qingclass.com/course/trans2cbr/2017/02/27/c5cd294758aed0c07f1dfd51c3.mp3",
-      "text": "2017年2月27日 下午11_13_24_new.mp3",
-      "id": "20",
-      "order": 19.0,
-      "kind": 0.0
-    },
-    {
-      "teacher": "",
-      "url": "//saasoss.qingclass.cc/temp/jp2b1d4v/the-beholder.png",
-      "preview": true,
-      "text": "the-beholder.png",
-      "id": "jp2b1d4f",
-      "order": 20.0,
-      "kind": 1.0
-    },
-    {
-      "teacher": "",
-      "url": "https://oss.qingclass.com/course/2017/02/27/caed6d45c3b4d70b1db4de2007.gif",
-      "preview": false,
-      "text": "part4.gif",
-      "id": "22",
-      "order": 21.0,
-      "kind": 1.0
-    },
-    {
-      "teacher": "",
-      "text": "<p>I have finished the book that you lent me.</p><p></p>",
-      "id": "23",
-      "order": 22.0,
-      "kind": 3.0
-    },
-    {
-      "duration": 14650.0,
-      "teacher": "1",
-      "url": "//oss.qingclass.com/course/trans2cbr/2017/02/27/34c5834794bbc93e8659341ba1.mp3",
-      "text": "5.句子跟读.mp3",
-      "id": "24",
-      "order": 23.0,
-      "kind": 0.0
-    },
-    {
-      "teacher": "",
-      "text": "<p>附：侃侃语法地图（建议点击观看大图）</p><p></p>",
-      "id": "25",
-      "order": 24.0,
-      "kind": 3.0
-    },
-    {
-      "teacher": "",
-      "url": "https://oss.qingclass.com/course/2017/02/27/b333734e4caccabc1674d3ea3a.png",
-      "preview": true,
-      "text": "76409fd.png",
-      "id": "26",
-      "order": 25.0,
-      "kind": 1.0
-    },
-    {
-      "teacher": "",
-      "url": "https://oss.qingclass.com/course/2017/02/27/f14fe34641a7db9338841a188b.gif",
-      "preview": true,
-      "text": "30天搞定初级语法-P1.gif",
-      "id": "27",
-      "order": 26.0,
-      "kind": 1.0
-    },
-    {
-      "teacher": "",
-      "url": "https://oss.qingclass.com/course/2017/02/27/9406fe466685080da3bf924efc.gif",
-      "preview": true,
-      "text": "30天搞定初级语法-P2.gif",
-      "id": "28",
-      "order": 27.0,
-      "kind": 1.0
-    },
-    {
-      "teacher": "",
-      "url": "https://oss.qingclass.com/course/2017/02/27/76347143e39bda3da95c83b983.gif",
-      "preview": true,
-      "text": "30天搞定初级语法-大纲.gif",
-      "id": "30",
-      "order": 28.0,
-      "kind": 1.0
-    },
-    {
-      "teacher": "",
-      "url": "https://oss.qingclass.com/course/2017/02/27/31532247189328af20dd3c9c7f.gif",
-      "preview": true,
-      "text": "30天搞定初级语法-P4.gif",
-      "id": "31",
-      "order": 29.0,
-      "kind": 1.0
-    }
-  ]
+  "status": 0,
+  "data": {
+    "name": "定冠词&不定冠词&零冠词",
+    "content": [
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/02/27/3b3b06431785bdac872c65474f.gif",
+        "preview": false,
+        "text": "part1.gif",
+        "id": "1",
+        "order": 0.0,
+        "kind": 1.0
+      },
+      {
+        "duration": 57390.0,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/02/27/89f70c4158b235fc33333d11ec.mp3",
+        "text": "2017年2月27日 下午5_15_04(1).mp3",
+        "id": "2",
+        "order": 1.0,
+        "kind": 0.0
+      },
+      {
+        "duration": 77580.0,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/02/27/7e814f4f9c9a8b849ef37aebd8.mp3",
+        "text": "2.课前练习.mp3",
+        "id": "3",
+        "order": 2.0,
+        "kind": 0.0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/02/27/fbe7e54f639054d95cc1f8cd66.png",
+        "preview": true,
+        "text": "1.png",
+        "id": "4",
+        "order": 3.0,
+        "kind": 1.0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/02/27/4b934d46e5a1750d067700016e.gif",
+        "preview": false,
+        "text": "part2.gif",
+        "id": "5",
+        "order": 4.0,
+        "kind": 1.0
+      },
+      {
+        "duration": 102940.0,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/02/27/e34b86429f8b5dcb08a1d46a1b.mp3",
+        "text": "3.语法解读1.mp3",
+        "id": "6",
+        "order": 5.0,
+        "kind": 0.0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/02/27/70348d466ba2c87025c223fc51.png",
+        "preview": true,
+        "text": "2.png",
+        "id": "7",
+        "order": 6.0,
+        "kind": 1.0
+      },
+      {
+        "duration": 153670.0,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/02/27/a54249495b88cf5d11a694e74d.mp3",
+        "text": "3.语法解读2.mp3",
+        "id": "8",
+        "order": 7.0,
+        "kind": 0.0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/02/27/bd5d304e66a81ebaa785cb6de2.png",
+        "preview": true,
+        "text": "3.png",
+        "id": "9",
+        "order": 8.0,
+        "kind": 1.0
+      },
+      {
+        "duration": 141270.0,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/02/27/2086c94a04ad05ec642f504324.mp3",
+        "text": "3.语法解读3.mp3",
+        "id": "10",
+        "order": 9.0,
+        "kind": 0.0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/02/27/a49beb48cc836421835f540497.png",
+        "preview": true,
+        "text": "4.png",
+        "id": "11",
+        "order": 10.0,
+        "kind": 1.0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/02/27/ff3dc24b28a3878e6e0cfb1ef3.gif",
+        "preview": false,
+        "text": "part3.gif",
+        "id": "12",
+        "order": 11.0,
+        "kind": 1.0
+      },
+      {
+        "duration": 119060.0,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/02/27/b3dd3a4f2badbf72609a8f108d.mp3",
+        "text": "4.用法精析1.mp3",
+        "id": "13",
+        "order": 12.0,
+        "kind": 0.0
+      },
+      {
+        "duration": 66030.0,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/02/27/a924b34b2886ba0534db86a647.mp3",
+        "text": "4.用法精析2.mp3",
+        "id": "14",
+        "order": 13.0,
+        "kind": 0.0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/02/27/5a23ac4167b78ae34cbde45a77.png",
+        "preview": true,
+        "text": "5.png",
+        "id": "15",
+        "order": 14.0,
+        "kind": 1.0
+      },
+      {
+        "duration": 73400.0,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/02/27/23d75542c5bea8d02fd78f3f76.mp3",
+        "text": "4.用法精析3.mp3",
+        "id": "16",
+        "order": 15.0,
+        "kind": 0.0
+      },
+      {
+        "duration": 79120.0,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/02/27/b522d34493ad390268648538b3.mp3",
+        "text": "4.用法精析4.mp3",
+        "id": "17",
+        "order": 16.0,
+        "kind": 0.0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/02/27/8352c948c4a89f24a3ed6f03c0.png",
+        "preview": true,
+        "text": "6.png",
+        "id": "18",
+        "order": 17.0,
+        "kind": 1.0
+      },
+      {
+        "duration": 126530.0,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/02/27/b40ee54c378b12dac713b8761a.mp3",
+        "text": "2017年2月27日 下午11_05_48.mp3",
+        "id": "19",
+        "order": 18.0,
+        "kind": 0.0
+      },
+      {
+        "duration": 69320.0,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/02/27/c5cd294758aed0c07f1dfd51c3.mp3",
+        "text": "2017年2月27日 下午11_13_24_new.mp3",
+        "id": "20",
+        "order": 19.0,
+        "kind": 0.0
+      },
+      {
+        "teacher": "",
+        "url": "//saasoss.qingclass.cc/temp/jp2b1d4v/the-beholder.png",
+        "preview": true,
+        "text": "the-beholder.png",
+        "id": "jp2b1d4f",
+        "order": 20.0,
+        "kind": 1.0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/02/27/caed6d45c3b4d70b1db4de2007.gif",
+        "preview": false,
+        "text": "part4.gif",
+        "id": "22",
+        "order": 21.0,
+        "kind": 1.0
+      },
+      {
+        "teacher": "",
+        "text": "<p>I have finished the book that you lent me.</p><p></p>",
+        "id": "23",
+        "order": 22.0,
+        "kind": 3.0
+      },
+      {
+        "duration": 14650.0,
+        "teacher": "1",
+        "url": "//oss.qingclass.com/course/trans2cbr/2017/02/27/34c5834794bbc93e8659341ba1.mp3",
+        "text": "5.句子跟读.mp3",
+        "id": "24",
+        "order": 23.0,
+        "kind": 0.0
+      },
+      {
+        "teacher": "",
+        "text": "<p>附：侃侃语法地图（建议点击观看大图）</p><p></p>",
+        "id": "25",
+        "order": 24.0,
+        "kind": 3.0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/02/27/b333734e4caccabc1674d3ea3a.png",
+        "preview": true,
+        "text": "76409fd.png",
+        "id": "26",
+        "order": 25.0,
+        "kind": 1.0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/02/27/f14fe34641a7db9338841a188b.gif",
+        "preview": true,
+        "text": "30天搞定初级语法-P1.gif",
+        "id": "27",
+        "order": 26.0,
+        "kind": 1.0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/02/27/9406fe466685080da3bf924efc.gif",
+        "preview": true,
+        "text": "30天搞定初级语法-P2.gif",
+        "id": "28",
+        "order": 27.0,
+        "kind": 1.0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/02/27/76347143e39bda3da95c83b983.gif",
+        "preview": true,
+        "text": "30天搞定初级语法-大纲.gif",
+        "id": "30",
+        "order": 28.0,
+        "kind": 1.0
+      },
+      {
+        "teacher": "",
+        "url": "https://oss.qingclass.com/course/2017/02/27/31532247189328af20dd3c9c7f.gif",
+        "preview": true,
+        "text": "30天搞定初级语法-P4.gif",
+        "id": "31",
+        "order": 29.0,
+        "kind": 1.0
+      }
+    ]
+  }
 }
